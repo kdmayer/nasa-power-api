@@ -8,7 +8,7 @@ Simply edit the config.yaml by specifying your latitude, longitude, start date, 
     lon: -1.627447
 
     # Format: YYYYMMDD
-    # Earliest is 19800101
+    # Earliest is 19810101
     start_date: 20100301
 
     # Format: YYYYMMDD
