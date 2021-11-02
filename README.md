@@ -1,5 +1,5 @@
 # nasa-power-api
-Download meteorological data records from Nasa Power
+Download meteorological data records from Nasa Power.
 
 Simply edit the config.yaml by specifying your latitude, longitude, start date, and end date values.
 
