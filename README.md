@@ -14,4 +14,4 @@ Simply edit the config.yaml by specifying your latitude, longitude, start date, 
     # Format: YYYYMMDD
     end_date: 20210101
 
-Hit run to save the respective .csv file in the projects data directory.
+Hit run to save the respective .csv file in the project's data directory.
